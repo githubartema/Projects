@@ -1,0 +1,1 @@
+This is a CNN that differs cats from dogs (based on a Kaggle dataset). It uses dropout and batch normalization, as well as minibatch SGD. File "trained_cnn.pth" contains parameters of trained network.
