@@ -7,4 +7,4 @@ AppForDelivery - I took part in student command competition, where the task was 
 
 CNNetwork - A batch with convolutional neural network that differs cats from dogs, using three convolutional and three linear layers with different optimizations. The dataset is taken from Kaggle. Moreover, there is file with trained parameters.
 
-WineClassification - research in wine classification field. Main tasks was to explore data as deep as possible and to propose some models, that can predict wine quality, basing on the research. The models are SVM and Neural Network.
+WineClassification - jupyter notebook, containing research in wine classification field. Main tasks was to explore data as deep as possible and to propose some models, that can predict wine quality, basing on the research. The models are SVM and Neural Network.
