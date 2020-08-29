@@ -8,6 +8,3 @@ AppForDelivery - I took part in student command competition, where the task was 
 CNNetwork - A batch with convolutional neural network that differs cats from dogs, using three convolutional and three linear layers with different optimizations. The dataset is taken from Kaggle. Moreover, there is file with trained parameters.
 
 WineClassification - jupyter notebook, containing research in wine classification field. Main tasks was to explore data as deep as possible and to propose some models, that can predict wine quality, basing on the research. The models are SVM and Neural Network.
-
-NIMA - A convolution neural network for automatic image assessment.
-The training dataset was AVA: A Large-Scale Database for Aesthetic Visual Analysis. Pretrained VGG16 was taken as a main backbone, and then the goal was to finetune the network.
