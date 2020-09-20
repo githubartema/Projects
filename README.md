@@ -1,4 +1,4 @@
-# root
+# Projects
 Here is my main folder, where you can find some of my projects:
 
 BloodModel - imitation of blood cell movement in vessels to collect statistics.
